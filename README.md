@@ -12,11 +12,11 @@ __Team Members:__
 * [Maddy Stevens](https://github.com/madhubs) - Front-End
 
 #### First Draft:
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home-mockup.png, "Sage")
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search-mockup.png, "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home-mockup.png "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search-mockup.png "Sage")
 
 #### Final Product: 
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home.png, "Sage")
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/complete_profile.png, "Sage")
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search.png, "Sage")
-![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/profile.png, "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home.png "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/complete_profile.png "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search.png "Sage")
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/profile.png "Sage")
