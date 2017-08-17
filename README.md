@@ -4,12 +4,12 @@
 ![Team Photo](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/group.jpg "Team Photo")
 
 __Team Members:__
+* [Maddy Stevens](https://github.com/madhubs) - Front-End
 * [Daniela Bizgu](https://github.com/mixdanutza) - Back-End
-* [Sereina Blanchard](https://github.com/Ziyal) - Front-End
 * [Brianna Burrows](http://meetbrianna.com/) - Front-End
 * [Mikayla Jordan](https://github.com/Makillya) - Back-End
+* [Sereina Blanchard](https://github.com/Ziyal) - Front-End
 * [Yishui Lieu](https://github.com/liuyishui) - Back-End
-* [Maddy Stevens](https://github.com/madhubs) - Front-End
 
 #### First Draft:
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home-mockup.png "Sage")
