@@ -22,4 +22,4 @@ __Team Members:__
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/profile.png "Sage")
 
 Hacking away.
-![Hacking](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/hacking.jgp "Hacking")
+![Hacking](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/hacking.jpg "Hacking")
