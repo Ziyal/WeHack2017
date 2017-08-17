@@ -1,7 +1,7 @@
 # Sage: Connecting Women in Tech
 ### Created at WeHack 2017 hosted by TUNE
 
-Screenshots and description coming soon!
+![Team Photo](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/group.jpg "Team Photo")
 
 __Team Members:__
 * [Daniela Bizgu](https://github.com/mixdanutza) - Back-End
@@ -20,3 +20,6 @@ __Team Members:__
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/complete_profile.png "Sage")
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search.png "Sage")
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/profile.png "Sage")
+
+Hacking away.
+![Hacking](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/hacking.jgp "Hacking")
