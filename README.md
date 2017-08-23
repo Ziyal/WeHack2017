@@ -11,6 +11,8 @@ __Team Members:__
 * [Sereina Blanchard](https://github.com/Ziyal) - Front-End
 * [Yishui Lieu](https://github.com/liuyishui) - Back-End
 
+![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/sage.gif "Sage")
+
 #### First Draft:
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/home-mockup.png "Sage")
 ![Sage](https://github.com/Ziyal/WeHack2017/blob/master/screenshots/search-mockup.png "Sage")
